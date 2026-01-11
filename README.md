@@ -149,5 +149,3 @@ Computer Vision DA1
 This project is intended for **educational and academic use only**.
 
 ---
-
-Just tell me 👍
