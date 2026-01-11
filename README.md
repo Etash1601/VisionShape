@@ -149,5 +149,4 @@ This project is intended for **educational and academic use only**.
 
 
 
-** HERE IS THE LINK WHICH IS DEPLOYED **
-Link - 
+Deployed Link - https://visionshape-etashashwin.streamlit.app/
